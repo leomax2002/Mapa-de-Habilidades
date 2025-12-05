@@ -3,82 +3,86 @@
 ## Etapa 1: Inventário de Habilidades
 
 ### 1.1 - Habilidades Técnicas
-*Algoritmos e Estruturas de Dados
 
-*Bancos de Dados Relacionais (SQL)
+* Algoritmos e Estruturas de Dados
 
-*Programação em Python
+* Bancos de Dados Relacionais (SQL)
 
-*Programação em C/C++
+* Programação em Python
 
-*Programação em Java
+* Programação em C/C++
 
-*Sistemas Embarcados
+* Programação em Java
 
-*Identificação de Sistemas Dinâmicos
+* Sistemas Embarcados
 
-*Controle de Sistemas Dinâmicos
+* Identificação de Sistemas Dinâmicos
 
-*Escrita técnica
+* Controle de Sistemas Dinâmicos
 
-*Circuitos Elétricos
+* Escrita técnica
 
-*Eletrônica
+* Circuitos Elétricos
 
-*Design de PCB
+* Eletrônica
+
+* Design de PCB
 
 ### 1.2 - Habilidades Comportamentais
-*Liderança
 
-*Gestão de equipe
+* Liderança
 
-*Trabalho em grupo
+* Gestão de equipe
+
+* Trabalho em grupo
 
 ### 1.3 - Habilidades Criativas
-*Cozinhar
 
-*Escrever ficção
+* Cozinhar
+
+* Escrever ficção
 
 ## Etapa 2: Cruzamento com Necessidades do Mercado
 
 ### 1.1 - Habilidades Técnicas
-*Algoritmos e Estruturas de Dados
 
-*Bancos de Dados Relacionais (SQL)
+* Algoritmos e Estruturas de Dados
 
-*Programação em Python
+* Bancos de Dados Relacionais (SQL)
 
-*Programação em C/C++
+* Programação em Python
 
-*Programação em Java
+* Programação em C/C++
 
-*Sistemas Embarcados
+* Programação em Java
 
-*Identificação de Sistemas Dinâmicos
+* Sistemas Embarcados
 
-*Controle de Sistemas Dinâmicos
+* Identificação de Sistemas Dinâmicos
 
-*Escrita técnica
+* Controle de Sistemas Dinâmicos
 
-*Circuitos Elétricos
+* Escrita técnica
 
-*Eletrônica
+* Circuitos Elétricos
 
-*Design de PCB
+* Eletrônica
+
+* Design de PCB
 
 ### 1.2 - Habilidades Comportamentais
 
-*Liderança
+* Liderança
 
-*Gestão de equipe
+* Gestão de equipe
 
-*Trabalho em grupo
+* Trabalho em grupo
 
 ### 1.3 - Habilidades Criativas
 
-*Cozinhar
+* Cozinhar
 
-*Escrever ficção
+* Escrever ficção
 
 
 
